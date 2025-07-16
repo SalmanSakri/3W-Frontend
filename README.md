@@ -25,5 +25,5 @@ dotenv
 You can deploy using:
 
 Frontend: Netlify / Vercel
-
+Backend: Render
 Database: MongoDB Atlas
