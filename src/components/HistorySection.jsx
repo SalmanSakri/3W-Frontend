@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { Trophy, Star, Plus, Clock, User, Award } from 'lucide-react';
-const API_BASE_URL = 'http://localhost:7867/api';
+import { Clock } from 'lucide-react';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
 const HistorySection = () => {
     const [history, setHistory] = useState([]);
     const [showHistory, setShowHistory] = useState(false);
@@ -15,7 +15,6 @@ const HistorySection = () => {
             console.error('Error fetching history:', error);
         }
     };
-
     // Format date
     const formatDate = (dateString) => {
         return new Date(dateString).toLocaleString();
