@@ -28,3 +28,12 @@ You can deploy using:
 -Frontend: Netlify / Vercel
 -Backend: Render
 -Database: MongoDB Atlas
+
+
+
+## 🛠️ Future Enhancements
+- Email verification
+- Password reset
+- CRUD opration on meeting
+- Role-based access
+- Location future
