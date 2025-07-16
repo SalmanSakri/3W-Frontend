@@ -1,9 +1,18 @@
-📌 Project Title: 3W Business Dashboard
-A full-stack web application for meeting invitation system, OTP authentication, role-based dashboards, and admin-user management — built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+📌 Point Claiming System
+A full-stack application that allows users to claim random points and view real-time leaderboards.
+Features
 
+✅ User selection from dropdown
+✅ Random point claiming (1-10 points)
+✅ Real-time leaderboard updates
+✅ Add new users dynamically
+✅ Point history tracking
+✅ Socket.io for real-time updates
+✅ Responsive design
 
-Frontend	https://3w-frontend-code.netlify.app (Update if changed)
-Backend	https://3w-backend-api-url.com (e.g., Render, AWS EC2, etc.)
+- Frontend GitHup URL:https://3w-frontend-code.netlify.app
+- Backend URL:https://github.com/SalmanSakri/3W
+- Live Demo Url:https://3w-frontend-code.netlify.app/
 
 
 🧩 Tech Stack
@@ -38,6 +47,10 @@ Edit
 # Run frontend dev server
 npm run dev
 🛠️ Folder Structure Overview
+
+## 📁 Project Structure
+
+```bash
 Backend (3W)
 pgsql
 Copy
@@ -66,6 +79,9 @@ Edit
 ├── public/
 ├── .env
 └── package.json
+
+
+```
 🧪 API Endpoints (Examples)
 Method	Endpoint	Description
 POST	/api/auth/otp-send	Send OTP to mobile/email
