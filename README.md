@@ -15,25 +15,19 @@ Features
 - Live Demo Url:https://3w-frontend-code.netlify.app/
 
 
-🧩 Tech Stack
-
--Frontend	Backend	Database	Other
--React.js (Vite)
--Tailwind CSS,
--dotenv
+## 🛠️ Tech Stack
+- Frontend	Backend	Database
+- React.js (Vite)
+- Tailwind CSS
+- dotenv
 
 📌 Deployment
 You can deploy using:
 
--Frontend: Netlify / Vercel
--Backend: Render
--Database: MongoDB Atlas
+- Frontend: Netlify / Vercel
+- Backend: Render
+- Database: MongoDB Atlas
 
 
 
-## 🛠️ Future Enhancements
-- Email verification
-- Password reset
-- CRUD opration on meeting
-- Role-based access
-- Location future
+
