@@ -16,14 +16,15 @@ Features
 
 
 🧩 Tech Stack
-Frontend	Backend	Database	Other
-React.js (Vite)
-Tailwind CSS,
-dotenv
+
+-Frontend	Backend	Database	Other
+-React.js (Vite)
+-Tailwind CSS,
+-dotenv
 
 📌 Deployment
 You can deploy using:
 
-Frontend: Netlify / Vercel
-Backend: Render
-Database: MongoDB Atlas
+-Frontend: Netlify / Vercel
+-Backend: Render
+-Database: MongoDB Atlas
