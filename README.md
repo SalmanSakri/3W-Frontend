@@ -10,7 +10,7 @@ Features
 ✅ Socket.io for real-time updates
 ✅ Responsive design
 
-- Frontend GitHup URL:https://3w-frontend-code.netlify.app
+- Frontend GitHup URL:https://github.com/SalmanSakri/3W-Frontend
 - Backend URL:https://github.com/SalmanSakri/3W
 - Live Demo Url:https://3w-frontend-code.netlify.app/
 
