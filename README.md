@@ -1,4 +1,4 @@
-📌 Point Claiming System
+## 📌 Point Claiming System
 A full-stack application that allows users to claim random points and view real-time leaderboards.
 Features
 
@@ -21,13 +21,9 @@ Features
 - Tailwind CSS
 - dotenv
 
-📌 Deployment
+## 📌 Deployment
 You can deploy using:
 
 - Frontend: Netlify / Vercel
 - Backend: Render
 - Database: MongoDB Atlas
-
-
-
-
